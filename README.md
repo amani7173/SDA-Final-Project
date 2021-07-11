@@ -24,7 +24,7 @@ Stock price prediction is an important topic and traditional prediction methods 
 
    https://public.tableau.com/views/SDAFinalProject/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
   
-### For more information about the process and result you can see:
+### For more information about the process, result and the resources you can see:
 #### The Blog 
 
   https://public.tableau.com/views/SDAFinalProject/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
