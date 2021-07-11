@@ -19,6 +19,10 @@ Stock price prediction is an important topic and traditional prediction methods 
 - Predict SABIC closing price using a forecasting model: The Prophet.
 
 #### For more information about the process and result you can see:
-* [Tableau Dashboard] https://public.tableau.com/views/SDAFinalProject/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
-* [Blog] https://public.tableau.com/views/SDAFinalProject/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+* Tableau Dashboard 
+
+  https://public.tableau.com/views/SDAFinalProject/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+* Blog 
+
+  https://public.tableau.com/views/SDAFinalProject/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
