@@ -18,11 +18,14 @@ Stock price prediction is an important topic and traditional prediction methods 
 - Predict SABIC closing price using time series analysis with ARIMA.
 - Predict SABIC closing price using a forecasting model: The Prophet.
 
-#### For more information about the process and result you can see:
-* Tableau Dashboard 
+#### Tableau Dashboard 
 
-  https://public.tableau.com/views/SDAFinalProject/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
-* Blog 
+![Dashboard 1 (3)](https://user-images.githubusercontent.com/81245467/125210573-4b8fd580-e2a9-11eb-85ea-9c1b04a85d0d.png)
+
+   https://public.tableau.com/views/SDAFinalProject/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+  
+### For more information about the process and result you can see:
+#### The Blog 
 
   https://public.tableau.com/views/SDAFinalProject/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
