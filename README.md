@@ -10,7 +10,7 @@
 
 Stock price prediction is an important topic and traditional prediction methods are usually based on statistical and econometric models. However, these models are difficult to deal with time series data, so for this problem machine learning has significant applications in the stock price prediction and in this project, we will predict SABIC closing price using time series analysis with ARIMA and using a forecasting model: The Prophet.
 
-### the dataset:
+### The dataset:
 We hava three dataset:
 - Saudi Basic Industries Corporation (SABIC) 
 - Tadawul All Share Index (TASI) 
