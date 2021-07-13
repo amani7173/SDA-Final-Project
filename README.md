@@ -16,12 +16,6 @@ We hava three dataset:
 - Tadawul All Share Index (TASI) 
 - Saudi Parallel Market (Nomu)
 
-### Objectives:
-- Determine SABIC performance over the years.
-- Calculating the volume for SABIC and Nomu over the years.
-- Determine the correlation between TASI and Nomu.
-- Predict SABIC closing price using time series analysis with ARIMA.
-- Predict SABIC closing price using a forecasting model: The Prophet.
 
 #### Tableau Dashboard 
 
