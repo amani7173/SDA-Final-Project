@@ -30,8 +30,7 @@ We hava three dataset:
 
    https://public.tableau.com/views/SDAFinalProject/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
   
-### For more information about the process, result and the resources you can see:
-   #### The Blog 
+### Full Article::
 https://atheera.medium.com/sabic-closing-price-prediction-252c12332a6
 
 
